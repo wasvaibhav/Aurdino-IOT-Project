@@ -37,7 +37,7 @@ pip3 install -r requirements.txt
 2)	Open file ```StandardFirmata.ino``` and upload the folder
 3)	Download this repo
 ```
-git clone https://github.com/abhineetraj1/arduino-iot-project
+git clone https://github.com/wasvaibhav/arduino-iot-project
 ```
 4)	Open the folder of code
 ```
@@ -65,6 +65,7 @@ Make sure you have connected the laptop and the mobile with same network or wifi
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico" alt="blender" width="40" height="40"/> </a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
 ## Developer
-*	[kairavaibhav](http://github.com/kairavaibhav)
+*	[wasvaibhav](http://github.com/wasvaibhav)
+
 
 
