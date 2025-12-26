@@ -1,5 +1,5 @@
 # Arduino IOT project
-![alt text](https://github.com/abhineetraj1/arduino-iot-project/blob/main/fav.png?raw=true)
+![alt text](https://github.com/wasvaibhav/Aurdino-IOT-Project/blob/main/fav.png?raw=true)
 
 * RGB led blinking through website hosted under home network.
 * User can controll the blinking of RGB light through web portal  from any device connected under same network
@@ -37,7 +37,7 @@ pip3 install -r requirements.txt
 2)	Open file ```StandardFirmata.ino``` and upload the folder
 3)	Download this repo
 ```
-git clone https://github.com/wasvaibhav/arduino-iot-project
+git clone https://github.com/wasvaibhav/Aurdino-IOT-Project
 ```
 4)	Open the folder of code
 ```
@@ -66,6 +66,7 @@ Make sure you have connected the laptop and the mobile with same network or wifi
 
 ## Developer
 *	[wasvaibhav](http://github.com/wasvaibhav)
+
 
 
 
